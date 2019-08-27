@@ -80,7 +80,8 @@ $ meteor #run your meteor on http://localhost:3000
 * email: radiegtya@dumbways.id
 
 ## Download App (Demo usage only)
-https://linktodownload.com/course-repo-example.apk 
+[![Iyat Download](https://i1.wp.com/apkmodsios.com/wp-content/uploads/2018/12/Download-Infinite-Design-3.4.10-Apk.png)](https://linktodownload.com/course-repo-example.apk)
+
 
 ----
 
