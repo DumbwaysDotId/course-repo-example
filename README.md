@@ -79,6 +79,9 @@ $ meteor #run your meteor on http://localhost:3000
 * WA/TELEGRAM: +62 8564 1278 479
 * email: radiegtya@dumbways.id
 
+## Download App (Demo usage only)
+https://linktodownload.com/course-repo-example.apk 
+
 ----
 
 ## License
